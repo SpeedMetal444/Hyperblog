@@ -1,15 +1,7 @@
-Esta es la historia de Freddy Vega
+Esta es MI historia, no la de Freedy Vega, Soy Abel Godoy
 
-Freddy Vega tiene 32 años y nació en Colombia
+Estoy aprendiendo de Git y GitHub
 
-Anita Platzi es una persona que contribuye a este proyecto open source y nació en Internet
+Esta muy copado y espero dominar pronto todas las funciones
 
-Experimento 1
-
-Experimento 2
-
-Master 1
-
-Master 2
-
-Mañana nos enfocaremos en su vida laboral
+Tengo 30 años y soy de Corrientes Argentina.
